@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to left, #F00B05, #F03101,#F0A911, #F09E3A);
+}
+nav > a{
+    color: black;
+    font-weight: bold;
+    text-decoration: none; 
+}
+main > h1{
+
+}
+nav > a:hover{
+    text-decoration: underline;
+    color: yellow;
+}
+header{
+    background-color: rgba(255, 166, 0, 0.521);
+    text-align: center;
+
+}
+header h1{
+    color: yellow;
+}
+p{
+    font-size: 18px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1px;
+}
